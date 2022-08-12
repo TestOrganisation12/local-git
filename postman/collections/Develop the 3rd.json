@@ -1,0 +1,24 @@
+{
+	"info": {
+		"_postman_id": "16cebf7f-b8b8-412c-a6ed-a20b1ce1b188",
+		"name": "Develop the 3rd",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "558568"
+	},
+	"item": [
+		{
+			"name": "third",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "third",
+					"host": [
+						"third"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
