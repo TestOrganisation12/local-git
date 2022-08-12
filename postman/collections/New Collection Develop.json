@@ -1,0 +1,24 @@
+{
+	"info": {
+		"_postman_id": "04720519-b939-4137-b825-e0f443d30211",
+		"name": "New Collection Develop",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "558568"
+	},
+	"item": [
+		{
+			"name": "Develop",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "develop",
+					"host": [
+						"develop"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
