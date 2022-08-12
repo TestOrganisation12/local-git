@@ -1,0 +1,24 @@
+{
+	"info": {
+		"_postman_id": "712d5c2c-2438-4e0d-b689-a84d7c12cf5c",
+		"name": "Develop second",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "558568"
+	},
+	"item": [
+		{
+			"name": "second",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "second",
+					"host": [
+						"second"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
